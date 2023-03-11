@@ -26,6 +26,11 @@ func main() {
 		"eu-west-3",
 		"eu-north-1",
 		"sa-east-1",
+		"me-south-1",
+		"af-south-1",
+		"eu-south-1",
+		"ap-southeast-3",
+		"ap-east-1",
 	}
 
 	for i := range regions {
